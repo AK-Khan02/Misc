@@ -1,0 +1,1 @@
+- Developed an Interactive Weather App using TKInter and OpenWeather API.
