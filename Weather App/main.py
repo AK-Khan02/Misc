@@ -99,5 +99,5 @@ class WeatherViewer:
 
 
 if __name__ == "__main__":
-    api_key = "7d81a319292decb1a2730e030fc76219"  # Replace with your API key
+    api_key =     # Key is Hidden.
     weather_app = WeatherViewer(api_key)
