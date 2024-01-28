@@ -50,5 +50,7 @@ Food Quantity: Change the number of food items on the screen by pressing F at th
 
 ## Example Pictures
 
+![image](https://github.com/AK-Khan02/Misc/assets/83300832/45967a08-cb81-48b6-8108-918b8e964bc1)
+![image](https://github.com/AK-Khan02/Misc/assets/83300832/3ce76ec7-2cec-430a-a8d6-ec129c7bdc90)
 
 
