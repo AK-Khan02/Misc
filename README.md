@@ -24,10 +24,3 @@ To use any project or script from this repository:
 2. Ensure you have the required environment and dependencies set up. For Python scripts, this might involve creating a virtual environment and installing dependencies via `pip`. For Java projects, ensure you have the JDK installed, etc.
 3. Follow any specific instructions provided within individual project folders or files, such as `Read Me.md` files for setup and usage guidelines.
 
-## Contributing
-
-Feel free to explore, fork, and experiment with the code in this repository. If you have suggestions, improvements, or new misc code snippets you'd like to share, I welcome contributions! Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## Disclaimer
-
-This repository is a personal collection of miscellaneous code. It's intended for sharing and educational purposes. While I strive to maintain quality and functionality in all projects, the diverse nature of this repository means that support and maintenance levels are little to none.
